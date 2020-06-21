@@ -6,7 +6,7 @@ type: docs
 
 # AVATAR
 
-本文介绍如何使用 SCP-079-AVATAR 的机器人实例，对应的搭建说明在[此处](https://docs.scp-079.org/bots/avatar/)。
+本文介绍如何使用 SCP-079-AVATAR 的机器人实例。
 
 ---
 
