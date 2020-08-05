@@ -5,6 +5,6 @@ bookFlatSection: true
 bookToc: false
 ---
 
-## 目录
+## 目錄
 
 {{<section>}}
