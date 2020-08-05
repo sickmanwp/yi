@@ -1,6 +1,6 @@
-baseURL = "https://manuals.scp-079.org"
+baseURL = "https://sickmanwp.github.io/"
 languageCode = "zh"
-title = "使用手册"
+title = "維基病夫史"
 theme = "book"
 
 disablePathToLower = true
@@ -15,18 +15,13 @@ enableGitInfo = true
 
 [menu]
 [[menu.after]]
-  name = "官方 Demo 服务"
-  url = "https://scp-079.org/readme/"
+  name = "站內版本"
+  url = "https://zh.wikipedia.org/wiki/User:SickManWP/%E7%B6%AD%E5%9F%BA%E7%97%85%E5%A4%AB%E5%8F%B2/%E7%AC%AC%E4%B8%80%E5%8D%B7"
   weight = 10
-
-[[menu.after]]
-  name = "第三方服务列表"
-  url = "https://scp-079.org/list/"
-  weight = 20
 
 [params]
   BookSection = '*'
-  BookRepo = 'https://github.com/scp-079/manuals'
+  BookRepo = 'https://github.com/sickmanwp/sickmanwp.github.io'
   BookEditPath = 'edit/master/content'
   BookDateFormat = 'January 2, 2006'
   BookComments = false
