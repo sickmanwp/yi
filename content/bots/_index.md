@@ -1,12 +1,8 @@
 ---
 weight: 1
-title: 机器人手册
+title: 目錄
 bookFlatSection: true
 bookToc: false
----
-
-# 机器人手册
-
 ---
 
 ## 目录
